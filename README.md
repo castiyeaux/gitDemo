@@ -5,4 +5,4 @@ This is a simple project
 hello there
 
 
-**Adding some more cool stuff**
+**Adding some awesomely cool stuff**
